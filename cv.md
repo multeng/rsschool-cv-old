@@ -5,6 +5,6 @@
 5. [Code examples](https://github.com/multeng/)
 6. I don't have commercial development experience.
 7. Stepick.org, Books, Youtube and other information from internet.
-8. University course and self-education. My knowledge between Beginer and Pre-Intermediate. I think closer to Pre-Intermediate.пше ыефе
+8. University course and self-education. My knowledge between Beginer and Pre-Intermediate. I think closer to Pre-Intermediate.
 
 
