@@ -1,0 +1,18 @@
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-color: white;
+    width: 1024px;
+    margin: 0 auto;
+}
+.header {
+    text-align: center;
+}
+.img {
+    margin-right: 200px;
+}
+.about-me{
+    text-align: center;
+}
+p.about-me {
+    margin-bottom: 100px;
+}
